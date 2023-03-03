@@ -1,5 +1,4 @@
-# OFFICIAL DOWNLOAD - https://drive.google.com/file/d/1hWAxaH5fKlwjxhIe0fimVEcQUSiDjxVi/view?usp=sharing
-          /\ Dassun is too large for Github, google drive is easier. 
+# OFFICIAL DOWNLOAD - Navigate to the release tab, there is an active download for Dassun V7. 
 
 The Dassun Algorithm is the largest algorithm in Python History and contains 27,000,000 million different integers across 27 sets. The Dassun Algorithm
 was designed to test the limitations of Python and the overall ability of Python to analyze and compute an extremely large dataset.
